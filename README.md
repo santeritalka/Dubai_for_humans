@@ -1,0 +1,2 @@
+# Dubai_for_humans
+Exploration of sustainable infrastructure using Python and Foursquare API venues data. I explore using Foursquare data for understanding the urban pattern of a city through a case study. Inspired by the paper "Green infrastructure planning: Unveiling meaningful spaces through Foursquare users’ preferences" by Martí et al. 2020, available at: https://www.sciencedirect.com/science/article/pii/S0264837719320435
